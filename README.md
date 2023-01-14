@@ -1,3 +1,14 @@
+# Simple Calculator made with React
+
+This project is about a simple calculator built with React.
+
+You'll find here:
+
+- State management
+- Components benefits
+- Components based on class and function
+- Communication between parent and child, direct and indirect
+
 ![alt text](https://github.com/mathmagson/react-calculator/blob/main/src/images/calculator.png?raw=true)
 
 # Getting Started with Create React App
